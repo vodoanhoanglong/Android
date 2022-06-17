@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewPart2_Ex</string>
+    <string name="product_color">Product Color</string>
+    <string name="add">Add</string>
+    <string name="product_name">Product Name</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string-array name="food_list">
+        <item>Bun Dau</item>
+        <item>Bun Thit Nuong</item>
+        <item>Chao Long</item>
+        <item>Long Xao Cai Chua</item>
+        <item>Bun Bo</item>
+        <item>Bun Rieu</item>
+        <item>Bun Mam</item>
+    </string-array>
+</resources>

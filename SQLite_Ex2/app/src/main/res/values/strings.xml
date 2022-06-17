@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite_Ex2</string>
+    <string name="product_name">Product name</string>
+    <string name="add_product">Add product</string>
+    <string name="adding_product">Adding Product</string>
+    <string name="name">Name...</string>
+    <string name="price">Price...</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="editing_product">Editing Product</string>
+</resources>

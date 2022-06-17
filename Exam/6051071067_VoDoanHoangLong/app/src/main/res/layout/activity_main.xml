@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true"
+    tools:ignore="MissingPrefix"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:src="@drawable/advertise_banner"
+        tools:ignore="ContentDescription"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf">
+        <ImageButton
+            android:id="@+id/btnLunch"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:src="@drawable/lunch_box_icon"
+            tools:ignore="ContentDescription"
+            android:background="#fff"
+            android:layout_width="0dp"/>
+        <ImageButton
+            android:id="@+id/btnNoodle"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:src="@drawable/noodle_icon"
+            tools:ignore="ContentDescription"
+            android:background="#fff"
+            android:layout_width="0dp"/>
+        <ImageButton
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:background="#fff"
+            android:src="@drawable/milk_tea_icon"
+            tools:ignore="ContentDescription"
+            android:layout_width="0dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf">
+        <ImageButton
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:src="@drawable/snack_icon"
+            tools:ignore="ContentDescription"
+            android:background="#fff"
+            android:layout_width="0dp"/>
+        <ImageButton
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:src="@drawable/korean_icon"
+            tools:ignore="ContentDescription"
+            android:background="#fff"
+            android:layout_width="0dp"/>
+        <ImageButton
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:background="#fff"
+            android:src="@drawable/healthy_icon"
+            tools:ignore="ContentDescription"
+            android:layout_width="0dp"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/baemin_studio_banner"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf">
+        <ImageView
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:src="@drawable/momo_service"
+        tools:ignore="ContentDescription" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:src="@drawable/zalopay_service"
+            tools:ignore="ContentDescription" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_weight="1"
+            android:src="@drawable/tocotoco_promo"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_weight="1"
+            android:src="@drawable/share_tea_promo"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf">
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_weight="1"
+            android:src="@drawable/comebuy_promo"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="110dp"
+            android:layout_weight="1"
+            android:src="@drawable/chaosuon_promo"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

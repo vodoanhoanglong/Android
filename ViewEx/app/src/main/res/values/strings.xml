@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ViewEx</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1_2">1–2</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="do_you_like_watching_film_on_which_app">Do you like watching film on which app?</string>
+    <string name="film">Film +</string>
+    <string name="fpt_play">FPT Play</string>
+    <string name="clip_tv">Clip TV</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="your_choice">Your choice:</string>
+    <string name="nhan_xet_ve_cong_cu_android_studio">Nhan xet ve cong cu Android Studio</string>
+    <string name="tuong_doi">Tuong doi</string>
+    <string name="tot">Tot</string>
+    <string name="rat_tot">Rat tot</string>
+    <string name="tuyet_voi">Tuyet voi</string>
+    <string name="vote">vote</string>
+</resources>

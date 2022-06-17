@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverEx</string>
+    <string name="wifi_status">Wifi Status</string>
+</resources>

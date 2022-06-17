@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationEx</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="show_alert">show alert</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="do_you_want_to_exit_app">Do you want to exit app</string>
+    <string name="check">check</string>
+    <string name="close">close</string>
+    <string name="my_custom_dialog">My Custom Dialog</string>
+</resources>

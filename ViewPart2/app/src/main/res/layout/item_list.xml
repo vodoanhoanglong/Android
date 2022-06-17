@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageBeer"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:src="@drawable/beer333"
+        tools:ignore="ContentDescription" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        tools:ignore="UselessLeaf"
+        android:gravity="center_vertical"
+        android:layout_marginStart="10dp">
+        <TextView
+            android:id="@+id/beerName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:textSize="26sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/beerPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/price"
+            android:textSize="26sp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+</LinearLayout>

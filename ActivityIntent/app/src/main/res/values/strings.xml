@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityIntent</string>
+    <string name="test">Test</string>
+    <string name="sub">Sub</string>
+    <string name="sub_1">sub 1</string>
+    <string name="sub2">sub2</string>
+    <string name="sub3">sub3</string>
+    <string name="send_receive_data"><![CDATA[Send & Receive Data]]></string>
+    <string name="_0_0">0.0</string>
+    <string name="sub4">Sub4</string>
+    <string name="pow">POW</string>
+</resources>
